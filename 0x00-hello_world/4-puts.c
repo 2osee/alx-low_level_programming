@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-/* main function */
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void) 
 {
 /* function printing a string */
