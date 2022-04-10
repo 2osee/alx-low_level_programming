@@ -1,13 +1,10 @@
 #include <stdio.h>
-#include <string.h>
 /**
- * main - Entry point
- *
- * Return: Always 0 (Success)
+ *  * main - The containing function of this programme
+ *   * Return: this gives 0 if sucessful
  */
-int main(void) 
+int main(void)
 {
-/* function printing a string */
-puts("\"Programming is like building a multilingual puzzle");
-return (0);
+		puts("\"Programming is like building a multilingual puzzle");
+		return (0);
 }
